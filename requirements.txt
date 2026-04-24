@@ -1,0 +1,5 @@
+scikit-learn
+streamlit as st
+pandas 
+numpy 
+seaborn 
