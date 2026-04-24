@@ -1,5 +1,5 @@
 scikit-learn
-streamlit as st
+streamlit
 pandas 
 numpy 
 seaborn 
